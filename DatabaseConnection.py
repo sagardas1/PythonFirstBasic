@@ -11,3 +11,5 @@ result=myCursor.fetchall()
 
 
 mydb.commit()
+
+print("bye")
